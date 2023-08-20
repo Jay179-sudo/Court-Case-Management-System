@@ -1,0 +1,12 @@
+High Court|Delhi|900
+District Court|Delhi|700
+Supreme Court|Delhi|600
+High Court|Allahabad|901
+High Court|Karnataka|902
+High Court|Himachal|903
+District Court|Agra|701
+District Court|Lucknow|702
+District Court|Ghaziabad|703
+High Court|Kerala|904
+High Court|Chhattisgarh|400
+District Court|Goa|401
